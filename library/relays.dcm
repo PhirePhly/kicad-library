@@ -307,7 +307,7 @@ F http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
 $ENDCMP
 #
 $CMP SANYOU_SRD_Form_C
-D Sanyo SRD relay, Single Pole Miniature Power Relay, 
+D Sanyo SRD relay, Single Pole Miniature Power Relay,
 K Single Pole Relay SPDT
 F http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
 $ENDCMP

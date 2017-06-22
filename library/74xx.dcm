@@ -38,7 +38,7 @@ $ENDCMP
 #
 $CMP 74HC244
 D 8bits Buffer/Line Driver 3 state
-K TTL BUFFER 3State 
+K TTL BUFFER 3State
 F http://www.nxp.com/documents/data_sheet/74HC_HCT244.pdf
 $ENDCMP
 #
@@ -82,7 +82,7 @@ $ENDCMP
 #
 $CMP 74HCT244
 D 8bits Buffer/Line Driver 3 state
-K TTL BUFFER 3State 
+K TTL BUFFER 3State
 F http://www.nxp.com/documents/data_sheet/74HC_HCT244.pdf
 $ENDCMP
 #
